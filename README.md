@@ -5,7 +5,7 @@ This Python script traverses a directory and converts all the text files found i
 ## 💼 Usage
 
 ```
-python script.py <dir_path> <pdf_path>
+python files2pdf.py <dir_path> <pdf_path>
 ```
 Here,
 - `dir_path`: Directory path to traverse. The script will look for text files in this directory and its subdirectories.
